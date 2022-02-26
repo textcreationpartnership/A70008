@@ -1,0 +1,610 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A few words to all who professe themselves to be of the Protestant religion whereby they may understand by what spirit they were led, that persecuted the people of God in former ages, for the exercise of their religion, and their tenderness of conscience in matters relating to the worship of God : with a few words of comfort to the suffering lambes / written by him that would have the greatest of persecutors to repent, and cease to do evil, and learn to do well, that so they might escape the judgments of the Lord, F.E.</title>
+            <author>F. E. (Francis Ellington)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70008</idno>
+            <idno type="STC">Wing E542</idno>
+            <idno type="STC">ESTC R15982</idno>
+            <idno type="EEBO-CITATION">13031592</idno>
+            <idno type="OCLC">ocm 13031592</idno>
+            <idno type="VID">96760</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70008)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96760)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 738:26, 788:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A few words to all who professe themselves to be of the Protestant religion whereby they may understand by what spirit they were led, that persecuted the people of God in former ages, for the exercise of their religion, and their tenderness of conscience in matters relating to the worship of God : with a few words of comfort to the suffering lambes / written by him that would have the greatest of persecutors to repent, and cease to do evil, and learn to do well, that so they might escape the judgments of the Lord, F.E.</title>
+                  <author>F. E. (Francis Ellington)</author>
+               </titleStmt>
+               <extent>[2], 17 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+               <term>Persecution --  Early works to 1800.</term>
+               <term>Liberty of conscience --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96760:1"/>
+            <pb facs="tcp:96760:1" rendition="simple:additions"/>
+            <p>A FEW WORDS TO ALL Who Profeſſe Themſelves to be OF THE Proteſtant Religion, WHEREBY They may underſtand by what Spirit they were led, that Perſecuted the People of God in former Ages, for the Exerciſe of their Religion, and their Tenderneſs of Conſcience in matters Relate<g ref="char:EOLhyphen"/>ing to the Worſhip of God.</p>
+            <p>With a few Words of Comfort to the Suffering Lambes.</p>
+            <p>Written by him that would have the greateſt of Perſecu<g ref="char:EOLhyphen"/>tors to Repent, and ceaſe to do Evil, and learn to do Well, that ſo they might eſcape the Judgments of the Lord.</p>
+            <p>F. E.</p>
+            <q>
+               <p>We unto them that decree unrighteous decrees, and that write griev<g ref="char:EOLhyphen"/>ouſneſs, which they have-preſcribed: To turn aſide the needy from judgment, and to take away the right from the poor of my people, that Widows may be their prey, &amp;c.</p>
+               <bibl>
+                  <hi>Iſai. 10.1, 2.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Surely there is no inchantment againſt <hi>Jacob,</hi> neither is there any <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> againſt <hi>Iſrael,</hi> nor weapon formed that can proſper,</p>
+               <bibl>
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. 23.23.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Year, 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:96760:2"/>
+            <pb n="1" facs="tcp:96760:2" rendition="simple:additions"/>
+            <div type="part">
+               <head>A few Words to all, &amp;c.</head>
+               <p>THe people of the Lord, who you in ſcorn call <hi>Quakers,</hi> may in this day truly ſay as <hi>David</hi> ſaid, that you and o<g ref="char:EOLhyphen"/>ther Plowers have plowed a long time upon our backs, and made deep Furrowes, but now is the time coming, that the righteous God, will hew your ſnares aſunder, therefore fear and dread our God, for he is come, in ten thouſands of his Saints, to judge the World of ungodly Men, and to rebuke all the ungodly amongſt them, for all their ungodly deeds, and hard ſpeeches againſt him, and for this cauſe (and no o<g ref="char:EOLhyphen"/>ther) have you in this day, as well as thoſe Rulers that our God caſt out before you, riſen up againſt us, in perſecuting, impriſoning, beating with Armed Souldiers, ſtocking, ſtoning, fining, and ſhamefully abuſing an innocent harmleſs people, who have in patience ſuffered under you and them, ever ſince the Lord came to raign in us, but now you have got to the heighth of your perſecution, and not much higher our God will ſuffer you to goe, nor he never did any, when they grew to that heighth of wickedneſs and cruelty, that now you are come unto, for the Lord hath ſuffered Perſecuters to plow long upon his peoples backs, that ſo he might try and exerciſe his peoples faith and patience, as he hath ſuffer<g ref="char:EOLhyphen"/>ed thoſe before you, and now hath ſuffered you, but when plowing upon their backs would not ſatisfie them, as beat<g ref="char:EOLhyphen"/>ing, fining, and impriſoning of them, but they would get a law, or Decree, made to root out, baniſh, or to kill, and deſtroy the whole Seed of righteous <hi>Iſrael,</hi> and to boaſt as <hi>Pharaoh</hi> and his Hoaſt did,<note n="*" place="margin">Exod. 15.9.</note> I will purſue, I will overtake them, I will divide the ſpoyle, my luſt ſhall be ſatisfied up<g ref="char:EOLhyphen"/>on them, I will draw my ſword, my hand ſhall deſtroy them, (or I will baniſh them out of my Land, except they will
+<pb n="2" facs="tcp:96760:3" rendition="simple:additions"/>worſhip according as I ſhall command them, I ſay when ever Perſecutors came to this ſtature in wickedneſs, then their time was near an end, and deliverance near to the per<g ref="char:EOLhyphen"/>ſecuted.</p>
+               <p>The firſt that came to this ſtature in wickedneſſe was <hi>Cain,</hi> who was the elder Brother of all Perſecuters, his puniſhment for killing his righteous brother about Religion, was greater then he was able to bear (as himſelf confeſſed) <hi>Geneſis</hi> the 4.</p>
+               <p>Read the ſin of the old World, <hi>Geneſis</hi> 6. <hi>&amp;</hi> 11. <hi>The Earth alſo</hi> (or the old World) <hi>was corrupt before God: for the Earth was filled with violence.</hi> (or cruelty) Perſecution is cruelty, and for this the Lord ſwept away the World of ungodly, and they periſhed in the Waters, but ſaved righteous <hi>Noah</hi> the perſecuted, alive in the Ark with his Family.</p>
+               <p>And read <hi>Exodus</hi> how wicked <hi>Pharaoh</hi> oppreſſed <hi>Iſrael</hi> a long time,<note place="margin">Exod. 5.6, 7, 8, 9, 10, 11, 12.</note> but when the Lord ſent his ſervant <hi>Moſes</hi> to be their Conducter and Leader, out of his houſe of bondage, then <hi>Pharaoh</hi> oppreſſed them more, when they deſired to goe ſacrifice to the Lord their God, then he ſaid the peopleare idle, let them have no more Straw given them, but let then goe and gather it where they can find it, yet ſaid he to the Officers, let them diminiſh nothing of their dayes works, but let them make their whole Taile of Brick as formetly, ſo the Officers came and beat them, and threatned them, and they cryed unto the Lord, and the Lord heard the cry of the afflicted, and he delivered them, and ſent his plagues upon <hi>Pharaoh,</hi> and upon his Land and People, ſo that at length he let <hi>Iſrael</hi> goe, but as ſoon as they were gone out from him, <hi>Pharaoh</hi> came to that ſtature of wickedneſs, both he and his people, as the Perſecuters in <hi>England</hi> are at this day, and they conſented to purſue, and to deſtroy them at once, (they would rid the Land of them) but the Lord delivered <hi>Iſrael,</hi> and that which delivered them, was the deſtruction of <hi>Pha<g ref="char:EOLhyphen"/>raoh,</hi> and all his Hoſt, <hi>Exodus</hi> 14.</p>
+               <p>Now <hi>Moſes</hi> wrote afterwards that the Lord would raiſe his people up a Prophet like unto him,<note place="margin">Deut. 18.15.</note> from amongſt their brethren, and him they ſhould hear in all things, and accord<g ref="char:EOLhyphen"/>ing
+<pb n="3" facs="tcp:96760:3" rendition="simple:additions"/>to his propheſie, the Lord hath raiſed up this Prophet, is the midſt of us, <hi>the Light Chriſt Jeſus,</hi> and he hath en<g ref="char:EOLhyphen"/>lightned us, and the Lord hath ſent him to be our guide, and Conducter out of <hi>ſpiritual Egipt,</hi> where formerly he was crucifyed.</p>
+               <p>And now we may call to remembrance the dayes that are paſſed, as the Apoſtle wrote,<note place="margin">Heb. 10.32, 33.</note> that after Chriſt Jeſus the light came unto us, and we received the Light, how we have indured a great fight in affliction, and as it were in <hi>E<g ref="char:EOLhyphen"/>gipe,</hi> after <hi>Moſes</hi> was ſent of the Lord to lead his people forth, ſo it hath been with us ever ſince we received the <hi>Light,</hi> the Prophet <hi>Moſes</hi> wrote of, how have our Perſecutors oppreſ<g ref="char:EOLhyphen"/>ſed us, and in no wife they will yield that we ſhall ſacrifice to the Lord our God, as Chriſt Jeſus the Light in us, ſhall di<g ref="char:EOLhyphen"/>rect us, and they have far exceeded <hi>Pharaoh</hi> and his Task-maſters in cruelty towards us (though we are free-born, and <hi>Iſrael</hi> were ſtrangers) as inſtance <hi>Pharaohs</hi> bondage to <hi>Iſrael,</hi> was chiefly to the outward man, in oppreſſing of them with hard labour, now if our Task-maſters would but doe ſo to us, and not oppreſſe our conſciences, we ſhould look upon them to be merciful men, if they would let us labour for our livelyhood, for our Wives and little Infants in the Land of our Nativity, but they will not, but caſt us, and ſome of our Wives and Children, into naſty ſtinking holes and dun<g ref="char:EOLhyphen"/>geons, and there for their pleaſure keep us from labouring either for our ſelves, or for to get Bred for our Families, and lay great penalties upon the cruel Goalers, that we may have no liberty to goe abroad, not ſo much as to breath in the Ayre, neither allow any of us one farthing of Allowance, to keep us alive, within their ſtone walls, and yet as <hi>Pharaoh</hi> lay heavier Taxes upon us to pay then ever, and yet will not let us labour with our hands, to get therein, but ſends their Officers to our habitations, where our ſmall Children are, and there tare away that little we have left them, to pay the Kings Taxes, and to pay thoſe falſe Prophets that teach for Hire, oh cruelty of all cruelties, far exceeding <hi>Egipts</hi> bon<g ref="char:EOLhyphen"/>dage, for we never read that they ever impriſoned the <hi>Iſrae<g ref="char:EOLhyphen"/>lites,</hi> and not let them labour, but only oppreſſed them with
+<pb n="4" facs="tcp:96760:4" rendition="simple:additions"/>labour; neither were they ever denyed the benefit of the Ayre to breath in, as our Proteſtant perſecuters doth <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this day; and we have cryed to the Lord our God, and our innocent ſufferings hath been ſpread before him, and he de<g ref="char:EOLhyphen"/>livered us from the generation of Proteſtant perſecuters that were in <hi>Oliver</hi>'s days; and his Righteous judgments hath ſwept them away, as he did others in days paſt. But yet I ſay, they were not grown to that ſtature in wickedneſs, as now the Proteſtant perſecuters are: For now we are not onely impriſoned,<note place="margin">Math. 5.34, 35.</note> hundreds together, in noiſom Goales (where many have ſealed their Teſtimonies with their bloods for the Truths ſake,) but now we are caſt into Priſon, becauſe we will not break an expreſs Command of Chriſt, (whom our Perſecuters falſly calls their Saviour) who ſaith expreſly, <hi>Sware not at all,</hi>
+                  <note place="margin">James 5.12.</note> 
+                  <hi>neither by Heaven, nor by Earth, nor by any o<g ref="char:EOLhyphen"/>ther Oath.</hi> And further, if we will not break this Law, and ſware by that Book, which ſaith, we muſt not ſwear, we muſt by their Law be baniſhed from the land of our Nativity, from our Wives and little Children, and deareſt Relations, into forreign Lands, there to ſeek our Bread among ſtran<g ref="char:EOLhyphen"/>gers; and if ever we return within ſeven years, we are by the cruel Law to die without mercy; and whoever ſhall wor<g ref="char:EOLhyphen"/>ſhip the true God, if they be above the number of four be<g ref="char:EOLhyphen"/>ſides the Houſhold, except in that way, time and place, which man hath invented, he or ſhe ſhall undergo the ſame penalties as aforeſaid.</p>
+               <q>
+                  <l>To Perſecutors in this Age, let it be tould to thoſe,</l>
+                  <l>In Cruelty they have out-ſtript, <hi>Pharaoh</hi> and all that roſe.</l>
+               </q>
+               <p>The next that we read of that was grown to this ſtature in wickedneſſe,<note place="margin">Numb. 22. 5. 6.</note> as to root out and deſtroy the <hi>Iſrael</hi> of God, it was <hi>Balak</hi> King of <hi>Moab,</hi> for as the perſecuters in this day would have the Lords own People that fear him, to be all baniſhed, ſo <hi>Balak</hi> in his day, he would have had them all curſed, (it being all by one and the ſame ſpirit) what ever it coſt him, and for mony and for reward <hi>Balaam</hi> would will<g ref="char:EOLhyphen"/>ingly have curſed them, but the Lord would not in that day
+<pb n="5" facs="tcp:96760:4" rendition="simple:additions"/>let Man (as he will not let his People be baniſhed in this day) but made <hi>Balaam</hi> bleſſe them altogether, and we read that when <hi>Balaam</hi> went to curſe <hi>Iſrael,</hi> he rode upon an <hi>Aſſe,</hi> and the went, the Angell of the Lord ſtood in his way with his ſword drawn in his hand, and the <hi>Aſſe</hi> ſaw the Angell and tained out of the way, and the fooliſh Prophet ſaw not the Lord ſtand in the way, then the Angell went farther and ſtood in a narrow place, and the <hi>Aſſe</hi> ſeeing the Lord again ſtand in the way, ſhe ruſhed on the one ſide, and daſhed <hi>Ba<g ref="char:EOLhyphen"/>laam</hi>'s foot againſt the wall, yet the mad Prophet all this while ſaw not the Lord, but attempted the third time to go on again to have curſed <hi>Iſrael.</hi>
+               </p>
+               <p>Now let all Proteſtant Perſecuters read their figure. <hi>Balak</hi> King of <hi>Moab,</hi> he by all means, what ever it coſt him, would have had the People of the Lord to have been curſed, that ſo he might have rid his land of them, &amp; to have deſtroy<g ref="char:EOLhyphen"/>ed them, and this was from the ſame ſpirit, that men in this day would have the People of the Lord baniſhed out of the Land, it is the ſpirit of <hi>Balaam,</hi> the falſe Prophet, that hath brought the people to this ſtature in wickedneſſe as to baniſh thoſe that fear the Lord, and that cannot put into the mouths of the falſe Prophets, for they are they that have in all ages and in this age ſtirred up the Rulers and People to perſecute Gods ſervants, and they ſeeing that Impriſoning, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Beating, Cutting with armed Souldiers, Stocking, Stoning, Whipping, will not make an end of them that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Lord, now they have got a Law (contrary to Law) to baniſh them, the Husband from the Wife, and both from the little Infants, not at all regarding Age nor Sex, rending <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ilies in pieces, O hard hearted Proteſtants! what, no pitty to the little Infants? muſt they be left crying day and night in thy ſtreets O <hi>England?</hi> &amp; no care taken for them? me not your hearts harder then the flint? what, baniſh Pa<g ref="char:EOLhyphen"/>rents from their tender Infants, and the pittifull Mother from our ſucking Babe! and baniſh them into a forreign Land, and all becauſe they will not break the commandment of him whom you call your Saviour and Redeemer, and becauſe they worſhip the living God in ſpirit and in truth according
+<pb n="6" facs="tcp:96760:5" rendition="simple:additions"/>to the Scriptures, you ſay you own and profeſſe, O Prote<g ref="char:EOLhyphen"/>ſtant perſecuters, you have quite loſt your natural affection, you have outſtripped all that ever went before you, go to the hearbs of the field and they will teach you, doth that hearb that is naturally hot, cauſe the other hearb that is na<g ref="char:EOLhyphen"/>turally cold, that it ſhall not grow by it? no, they buth grow together cloſe by one another in unity, and go to the birds of the air, and they will inſtruct you, for they live to<g ref="char:EOLhyphen"/>gether, and do not ſtrive to beat one another forth of the Country where they have been brought forth, &amp; go to little children and they will condemn you perſecuters, for they can play together in unity, but you have no pitty to the ſuck<g ref="char:EOLhyphen"/>ing babes, nor to the gray hairs, nor to him that leans upon his ſtaff for very age, and thus you have hardened your own hearts, untill the Lord hath given you up to hardneſſe of heart, which is the greateſt of all judgments, and the neareſt to deſtruction, and ſo you go on and ſtrive againſt your Ma<g ref="char:EOLhyphen"/>ker, and as yet you have not given ear to thoſe whom the Lord hath ſent unto you, to warn you of the evill of your wayes, but you have hardened your hearts as <hi>Pharaoh,</hi> and you will not let <hi>Iſrael</hi> go, but this I tell you all, who are haſtening to baniſh Gods People from amongſt you, our God hath ſet himſelf in your way with his ſword dravv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in his hand, and the poor Sea-Men whom you make your Aſſes, (or would do) they ſee the Lord ſtand in their way, and they have theſe two times turned out of the way when they were a going to carry the innocent into baniſh<g ref="char:EOLhyphen"/>ment, but the ſpirit of <hi>Balaam</hi> who would force them to carry them, he ſees not the Lord, the Lord hath opened the mouth of the Sea-Men both at <hi>Deal</hi> and alſo at <hi>Briſtoll,</hi> and they have confeſſed to the whole Nation, and given it under their hands, that they ſee the Lord ſtand in their way, the firſt ſaw him, croſſing them in all their outward things, ever after they undertook to carry innocent <hi>Iſrael</hi> from their own Land; but at <hi>Briſtol</hi> there the Lord met them in a narrower place, <hi>viz.</hi> in the Conſcience, and they gave it under their hands, <hi>that their Conſciences would in no wiſe let them be at qui<g ref="char:EOLhyphen"/>et, or peace; and that the plagues would follow them,</hi> (or others,
+<pb n="7" facs="tcp:96760:5" rendition="simple:additions"/>who ſhould ever under take to carry them) <hi>whether ſoever they <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>; and that they had partaked of the plagues in their heart <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>;</hi> and that <hi>they durſt in no wiſe carry them;</hi> becauſe, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> knew them to be <hi>innocent perſons, and deſtred to walk in befear of the Lord;</hi> and thus hath our God opened the eyes Whoſe whom you would make your <hi>Aſſes,</hi> (the poor Sea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en) that they ſee the Lord, and alſo their mouths to ſpeak well of his people;<note place="margin">2 Pet. 2.16.</note> and for this cauſe hath he opened their mouths, to reprove the madneſs of the wicked Prophets that ſee not the Lord, therefore let it be a warning to all you that ſtill would have them baniſhed, that the Lord <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th promiſed ſhall dwell in their own Land;<note place="margin">Jer. 23.8.</note> that you make not a third attempt to ride the Aſs out again, to drive on your deſign, for our God ſtands ſtill in the way,<note place="margin">Numb. 22. 31. 32, 33.</note> and if you will not be warned, he will ſlay you, and preſerve and keep the Aſs alive.</p>
+               <p>Therefore out of true love &amp; pitty once more to you, thus have I been moved of the Lord to write to you, that ſo you tray <hi>fear</hi> and <hi>Repent,</hi> and ceaſe from the cruel and unheard of perſecution; for the ſeed whom the Lord hath according to his promiſe, raiſed in this Northern Iſland, as <hi>Jeremiah</hi> fore<g ref="char:EOLhyphen"/>told muſt <hi>dwell in their own Land,</hi>
+                  <note place="margin">Jer. 23.8.</note> the mouth of the Lord of Hoſts hath ſpoken it.</p>
+               <p>Then another we read of that undertook this wicked work of Rooting out the Lords own people, it was wicked <hi>Ha<g ref="char:EOLhyphen"/>man,</hi>
+                  <note place="margin">Eſt. 3. &amp; 4. Chap.</note> in the days of <hi>Eſther,</hi> and it runs parrallel directly with proſecutors in theſe days, what do we read that proud <hi>Ha<g ref="char:EOLhyphen"/>man</hi> had or could juſtly charge the ſeed of <hi>Iſrael</hi> with, as was evil in his days, but that <hi>Mordecai</hi> the Jew fat in the Kings gate, and would not bow the knee to one who was of the flace of <hi>Amaleck,</hi>
+                  <note place="margin">Eſt. 3.1.</note> who were the firſt of the Nation that aroſe againſt <hi>Iſrael,</hi> when they were coming out of <hi>Aegypt's</hi> bon<g ref="char:EOLhyphen"/>dage,<note place="margin">Exod. 17 14.</note> whom God had formerly Curſed, whom the Lord ſaid <hi>be would have warr with</hi> (for that Cauſe) <hi>from generation to generation,</hi> and he would blot out his name from under hea<g ref="char:EOLhyphen"/>ven: <hi>Haman</hi> I ſay, being great with the King, and being fil<g ref="char:EOLhyphen"/>led with envy, laid falſe accuſations againſt an innocent peo<g ref="char:EOLhyphen"/>ple, and ſaid to the King, that it was not for the Kings pro<g ref="char:EOLhyphen"/>fit
+<pb n="8" facs="tcp:96760:6" rendition="simple:additions"/>to ſuffer them to live, &amp; the King being willing to gratifie his flatterers, granted his r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>queſt, and ſealed the decree, not only againſt righteous <hi>Mordecai,</hi> but againſt the whole Seed of <hi>Iſrael,</hi>
+                  <note place="margin">2 Theſ. 1.6.</note> that dwell amongſt them, but then it was <hi>A right<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> thing with the Lord to render tribulation to them that troubled his People,</hi>
+                  <note place="margin">Eſther 7.10.</note> as it hath been and will be ever, for the ſame tree that <hi>Haman</hi> commanded to be built to hang <hi>Mordecai</hi> on, the the Lord cauſed it that he himſelf was hanged thereon, and thoſe who by that unrighteous law had power given them to have deſtroyed <hi>Iſrael,</hi>
+                  <note place="margin">Chap. 9.</note> the Lord brought it ſo to paſſe that they were ſlain themſelves, as thou may read <hi>Eſther:</hi> ſo what hath the People of the Lord (who in ſcorn are called <hi>Quakers</hi>) done, that is evil againſt the proud <hi>Hamans</hi> in this day? hath any of them made Inſurrection, Plot, or Conſpi<g ref="char:EOLhyphen"/>cies, or any ways gone about to ſubvert the Government, or have they any wayes wronged any man in their outward goods or good name, or have they been a people that have lived contentiouſly with their neighbours, or in pride, idleneſſe, vanity, or exceſſe, let Gods witneſſe in the hearts of all people that have known us anſwer? or have we been a people that have made a profeſſion of ſcriptures, and lived contrary unto them in our lives and converſations, let thoſe who are our perſecuters (and that are found doing ſo) make it appear to the Nation if they can; but is not that the great<g ref="char:EOLhyphen"/>eſt and cheifeſt cauſe of our perſecutors wrath againſt us, that we cannot <hi>reſpect their perſons,</hi> nor give them <hi>flattering titles,</hi>
+                  <note place="margin">Job 23.21, 22.</note> becauſe the ſcriptures which they profeſſe forbids us and ſaith <hi>it is ſin;</hi> nay, though our perſecuters have never ſo much favour or honour from the King, and have what their hearts can deſire, yet what doth all avail them, while they ſee poor righteous <hi>Mordecais</hi> brought before the judgment ſeats,<note place="margin">John 5.44.</note> and cannot bow the knee to that which is out of the faith of Chriſt, and that ſeeks honour, or receives honour one of another, and ſo thoſe that walks according to the ho<g ref="char:EOLhyphen"/>ly Scriptures, are with ſuch men counted of evill behaviour, and ſo at all times ſuffers under them for well doing, and not for evill, and ſuch men who are filled with envy againſt us, have (to ſatisfie their bloody intents) falſly accuſed us before
+<pb n="9" facs="tcp:96760:6" rendition="simple:additions"/>thoſe that are in authority, and by that means have procured that law to be made, ſigned and ſealed againſt us, for peace<g ref="char:EOLhyphen"/>able meeting together, to worſhip the Lord in ſpirit and in truth, and ſo by the execution of that unnatural Law, to root us out of the land of our nativity, and ſo to race out the ſeed whom the Lord hath raiſed in this northern Iſland,<note place="margin">Jer. 23.8.</note> but unto our God we make our appeal, he having raiſed in us the ſame ſpirit that was in righteous <hi>Mordecai,</hi> and that was in the three Children, that we know <hi>Our God is able to de<g ref="char:EOLhyphen"/>liver us, and he will deliver us,</hi>
+                  <note place="margin">Dan 3.17.18.</note> and in him alone we wait for deliverance, and he never yet failed any that were by wick<g ref="char:EOLhyphen"/>ed men deſigned to be univerſally rooted out for their obe<g ref="char:EOLhyphen"/>dience to the Lord in any age, as before mentioned (as we are by you at this day) but if he ſhould not deliver us, be it known to you our perſecutors, that we will not be of that Religion that you are of, to profeſſe God, Chriſt, and Scriptures, and walk and practice the clean contrary way to what you profeſſe, and what the ſcriptures declare of; Nay contrary to what your book of Common Prayer ſpeaks of, for that ſaith that you ſhould <hi>forſake the Devill and all his works, and keep Gods holy will and commandments,</hi>
+                  <note place="margin">Read your Common-Prayer, &amp; ſee whether your practice be according.</note> 
+                  <hi>and walk in the ſame all the dayes of your lives, and that you ſhould hurt no body by word or deed, but ſhould be true and juſt in all your deal<g ref="char:EOLhyphen"/>ings, that you ſhould bear no malice nor hatred in your hearts, that you ſhould do to all men as you would they ſhould do unto you,</hi> and not <hi>falſly accuſe nor bear falſe witneſſe againſt your neigh<g ref="char:EOLhyphen"/>bours, and that you ſhould not live in the pomps and vanities of this wicked world, nor in the ſinfull luſts of the fleſh, and ſhould <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ither follow nor be led by them,</hi> and it ſaith (that the Lord ſaith) <hi>that we ſhal labour ſix dayes, and do all that we have to do,</hi> and when our perſecuters were ſprinkled, had not they their ſureties (or bondmen) who undertook for them that they would ſee them brought up in living out of the aforeſaid e<g ref="char:EOLhyphen"/>vils, and when they came to age themſelves, were they not bound to perform the ſame? but do either their ſureties or themſelves keep their bond or promiſes, but by their acti<g ref="char:EOLhyphen"/>ons they are found walking contrary to godlyneſſe, but be ye not deceived, for God will not be mocked by you, for
+<pb n="10" facs="tcp:96760:7" rendition="simple:additions"/>that which you ſow that you muſt reap, and our God is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> changeable, he is the ſame yeſterday and to day and for ever and therefore it is, that the true <hi>Iſrael</hi> that fears and ob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> him never hath been conſumed, nor never ſhall be.</p>
+               <q>
+                  <l>For when <hi>Hamans</hi> envy is grown ſo great,</l>
+                  <l>that <hi>Iſrael</hi> ſhall not live,</l>
+                  <l>Then that's the time for God's own power,</l>
+                  <l>deliverance for to give.</l>
+               </q>
+               <p>And again,<note place="margin">Cal 4 29.</note> he that was born after the fleſh, would be perſecuting him that was born after the ſpirit, and in <hi>Nebu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>had-nezzar</hi>'s time, the perſecuting ſpirit was gro<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to his full height in wickedneſſe, and they after that the King had ſet up the Golden Image,<note place="margin">read Dan. 3.</note> and had made a decree that all his people ſhould at the ſound of the Inſtruments, fall down and worſhip the Golden Image that the King had ſet up, and in that day there were three of the ſeed of <hi>Iſrael</hi> that knew the true God, and worſhiped him, and they could not fall down and worſhip the Image the King had ſet up, then thoſe who were filled with envy, accuſed them before the King, and incenſed the King againſt them, and they re<g ref="char:EOLhyphen"/>garding not the Kings decree, ſaid that they were not care<g ref="char:EOLhyphen"/>full to anſwer the King in that matter, for our God whom we ſerve is able to deliver us from the fiery Furnace, and he will deliver us out of thy hands O King; but if not, be it known unto thee O King, that we will not ſerve thy Gods, nor worſhip thy golden Image that thou haſt ſet up; then the Kings wrath aroſe, and he cauſed the Furnace to be he<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ven times hotter than before,<note place="margin">Dan. 3.20, 21, 22, &amp;c.</note> and commanded to bind the three ſervants of the Lord; and thoſe that undertook to carry and caſt them into the flames, the fire <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lew thoſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and burnt them, and the Lord preſerved the other in the flames, and had no hurt at all.</p>
+               <q>
+                  <l>O Perſecutors, Read theſe Lines, and dread our Mighty God,</l>
+                  <l>Elſe he will ſtrike and alſo ſmite you with his Iron Rod;</l>
+               </q>
+               <pb n="11" facs="tcp:96760:7" rendition="simple:additions"/>
+               <p>And again, how evident it is that perſecutors in all ages <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ither in this age, even regarded the works of the Lord, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> never takes notice how the Lord hath ever in all Ages <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſtly purſued this great ſin of perſecution (let it be found in whom it will) with his dreadfull Judgements; Nay, they will take no notice, though in the ſame age, and though they hear how the Lord hath ſwept away others before their fa<g ref="char:EOLhyphen"/>ces;<note place="margin">read Dan. the 6. Chap</note> yet they being blinded ſo with envy, that they will at<g ref="char:EOLhyphen"/>tempt the ſame evil themſelves again, as we may read that <hi>Daniel,</hi> becauſe he feared the living God, and worſhip'd him inſpirit and in truth, therefore thoſe envious men that knew well enough what the Lord had done to thoſe that had a hand <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the three Children into the Furnace, yet thoſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> would attempt the ſame evil againſt <hi>Daniel,</hi> and they ſee they could in no wiſe catch him in any thing concerning his life and converſation, but only concerning his God, therefore they endeavoured to perſwade the King to make a Law (as the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> envious ſpirit hath done often ſince) and the Law was this; <hi>that if any man asked any Petition or Requeſt of any <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Man, ſave of the King himſelf, for thirty days, that then he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> be eaſt into the Lyons Den,</hi> and this wicked law was ſign<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and ſealed by the King; but for all this wicked Decree, <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> regarded not it, but he not only prayed three times a day to the true God, but he ſet his window open (let who would hear him) and prayed to his God as at other times, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> quickly this wicked decree did not long want executi<g ref="char:EOLhyphen"/>o<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>, but thoſe that watched him, could the King, how <hi>Da<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </hi> regarded not the Kings law, then was <hi>Daniel</hi> according to the decree caſt into the Lyons Den, but in the Den there the Lord appeared, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hut the mouth of the hungry Lyons and preſerved <hi>Daniel,</hi> but then it was a righteous thing with the Lord, <hi>To render tribulation to thoſe that troubled his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> and the King did righteouſly in cauſing <hi>Daniel</hi> to be taken out of the Den, and alſo commanded that thoſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that cauſed <hi>Daniel</hi> to be caſt in,<note place="margin">Dan. 6.24.</note> that they ſhould be caſt i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> themſelves; and the text ſaith, that the Lyons had the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> over them and broke all their bones in pieces before <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er they came at the ground of the Den; now both theſe
+<pb n="12" facs="tcp:96760:8" rendition="simple:additions"/>deliverances from the fire, and from the Lyons were <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> one age, and the Perſecutors deſtruction alſo; and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> men in this Age who are of the ſame envious ſpirit, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> acting the ſame evil againſt the Servants of the Lord. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> would not take warning by others, but went on, untill <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lords judgments ſwept them away.</p>
+               <q>
+                  <l>Know Perſecutors we have a God</l>
+                  <l>That is over you with his Might,</l>
+                  <l>That can cauſe the Fire it ſhall not burn,</l>
+                  <l>Nor let hungry Lyons bite.</l>
+               </q>
+               <p>Now all you that in this day are ſo hard at work, and th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> are doing the very ſame evil in the ground of it, as the<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that the Holy Scriptures hath left you upon record, for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> your learning; and for that end the Lord gave the Scripture forth by his Servants, that ſo you might ſee how wicked <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> dealt with the Servants of the Lord in ages paſt, when <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> were grown to ſuch a ſtature in wickedneſs, as to get a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> made by their Kings, or Rulers, to root out and to de<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> the people of the Lord. And alſo, you may read in Scripture how, when ever any of his Servants were in any Age <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at by wicked men to be wholly rooted out, from off <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Earth; that then at all times, the Lords power appea<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wrought deliverance for his people, and ever brought <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſtruction upon the Enemies: But now if any are grow<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> deſperately wicked, as not to believe nor to give any <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to the Holy Scriptures, neither will be learned by the<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> notwithſtanding, he hears the Curſes that are there writ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> againſt ſuch wicked practices,<note place="margin">Deut. 29.19, 20.</note> the wrath of the Lord <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will ſmoke againſt that man or men whoever they be, &amp; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> curſe that is written in the Scriptures ſhall light upon <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> man; and the Lord ſhall put out his Name from under He<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </p>
+               <p>And now all you that call your ſelves (or would be called Chriſtian Mageſtrates, or Rulers, can you read that ever <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Chriſtians or any that feared the Lord, ever were found <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſuch a work, as you are doing at this day, to Ban<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> innocent, harmleſs, peaceable, laborious people, that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:96760:8" rendition="simple:additions"/>living God, from their dear Wives and tender Infants; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from their dear and near Relations, into Forreign Lands, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to expoſe them to greater miſery and hardſhip, then Death it ſelf: Will ever thoſe you call Heathens and Infidels <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> well of the Chriſtian Religion? or ever have any love <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be converted unto it, when they ſhall hear of ſuch cruel<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> acted by you? and that againſt your own Brethren; as to <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>iſh them for their Conſciences towards their God; and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen they ſhall hear what large promiſes of liberty concer<g ref="char:EOLhyphen"/>ing Conſcience you have made unto us, and yet regard it <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; but baniſh us as aforeſaid;<note place="margin">Math. 5.16.</note> can they ever give credit <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>to your words; ſhould not your Light ſo ſhine before <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en that they might ſee your good works, and ſo come to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>orifie God: Now good workes are Fruits of the ſpirit, as <hi>Love, joy, peace, long ſuffering, gentleneſs, goodneſs,</hi>
+                  <note place="margin">Gal. 5.22.</note> 
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eekneſs, temperance, againſt ſuch there is no Law,</hi> to im<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, fine, and to baniſh thoſe that fears the Lord, is not a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the ſpirit, but a work of the fleſh; for the workes of the fleſh are manifeſt, <hi>Adultery, fornication, uncleanneſs, <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>onneſs, Idolatry, Witchcraft, hatred, debate, amulations, <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>th, contentions, ſeditions, hereſies, envy, murders, drunken<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſs, gluttony, and ſuch like:</hi> and the Apoſtle ſaid, <hi>That they <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſuch things ſhall not inherit the Kingdom of God.</hi> Now let <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> deceive themſelves ſo much, as to call themſelves Chri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Mageſtrates, and Rulers, while they are found doing ſuch things as are clear contrary to Chriſts Doctrines, and the Holy Scriptures; Now thoſe that are found impriſoning, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing, beating, and baniſhing of thoſe that feares the Lord, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> would not have others do ſo unto them, ſuch are out of Chriſts Doctrine, and ſuch as fine, impriſon, and baniſh thoſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for Conſcience towards God cannot ſware,<note place="margin">Math 5.34, 35 36.</note> becauſe Chriſt and his Apoſtle forbids it, ſuch are out of Chriſts Doctrine; and ſuch as are parting Man and Wife, whom God <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th joyned together, and for meeting together to worſhip the true God in ſpirit and in truth, theſe men are out of Chriſts Doctrine, and are contrary to Scripture, and ſuch as will not let peaceable people labour with their hands, and ſo to provide for their Families, but ſhut them up in Priſons,
+<pb n="14" facs="tcp:96760:9" rendition="simple:additions"/>and there keep them during their pleaſures, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> by the Scriptures counted worſe then Inſide<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Faith.</p>
+               <p>And wicked men in all ages have counted the people <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Lord that have lived amongſt them to be <hi>T<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>,</hi>
+                  <note place="margin">read M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th. 3.</note> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> themſelves to be the <hi>Wheat,</hi> and ſuch have in all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> deavoured to act contrary to Chriſt<hi>'s</hi> doctrine and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mands, and they by no means will let them grow (or <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by them, but they will be plucking out the <hi>Tares</hi> (as the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſelves call them) but Chriſt bids ſuch men let them able, and let them grow together untill the harveſt, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> harveſt (he ſaith) is the end of the World; but <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> who will not believe Chriſt<hi>'s</hi> doctrine are none of his, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are the <hi>Tares</hi> which the Devill hath ſown amongſt the <hi>W<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>,</hi> and ſuch men for want of true judgment have ever in all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> miſtook the <hi>Tares,</hi> and endeavour to pluck up the <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> for never in any age, neither in this age, durſt ſuch <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ever go about to prove ſuch to be <hi>Tares</hi> that they <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> gon about to pluck up, which if they could prove the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be <hi>Tares,</hi> yet according to Chriſt<hi>'s</hi> doctrine, they are <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> let them alone, and to let them grow together untill <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> harveſt.</p>
+               <p>Now this I ſay unto you, who ever at this day are <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> perſecuting, plucking up, and rooting up Gods people <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> no evill don by them,<note place="margin">James. 4.12.</note> but only for their conſcience to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God, knowing him to be <hi>The alone Law-giver that is <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſave and to deſtroy,</hi> and no mortall Man whatſoever <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> power to give laws to bind the conſcience to the wor<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God, becauſe it is Gods throne which is the Kingdo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Heaven within us, where God fits chief Judge and <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>giver, I ſay unto all you, that the Lord hath by hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſpirit given you the holy ſcriptures for to inſtruct, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and reprove you, that ſo Kings, aſwell as their Sub<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> might live anſwerable unto them, and all their ſouls be<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ſubject to the higher powers, which power is God; <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> you will not be ſubject unto this higher power, but <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> your ſelves over Gods throne (the conſcience) and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will make laws over it, contrary to Gods laws, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:96760:9" rendition="simple:additions"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Scripture, the Lords hand will be ſtretched out a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> you, (for be never ſpared any that would by force <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hrone) but as you may read how he hath done to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, ſo he will do unto you, therefore fear our God and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and ceaſe doing wickedly againſt his people before the evill day which is near, come upon you.</p>
+            </div>
+            <div type="part">
+               <head>A few words to the ſuffering Lambs of Chriſts that lye in his Fould of Reſt.</head>
+               <p>DEar ſuffering Lambs, who are gather'd into the fould of Reſt, be not afraid though the hungry Foxes you hear run barking about the Fould, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Shepherd is watchful, he hath, and will ſeed you agreen Paſture; and at his pleaſure he can take the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>le Foxes, ſtray not forth of your Fould of Reſt; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be ſtill and quiet, be not troubled at the howling <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Foxes, for your Shepherd will not give you to be a prey for them; it is the Lamb that the wild hungry <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of prey would devour; but our God will ſud<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ly rebuke the devourer, for he hath gathered you by his own power into his own Fould; and he hath <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>lerved you, ever ſince he gathered you. You <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y remember how your Shepherd preſerved you <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thoſe that ſought to devour you in days paſt, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be reb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ked thoſe devourers in <hi>O, C</hi>'s days; and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he brought his judgments upon them, for touch<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of his Anointed, and for doing of his Prophets <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; and fear not though now you are incompaſſed <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>very ſide with thoſe that would devour you; It <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for a little time, for the tryal of your Faith, and
+<pb n="16" facs="tcp:96760:10" rendition="simple:additions"/>patience; you have the Holy Writings of Chriſt, the Prophets, and Apoſtles, and you have received them, to learn you, and to inſtruct you, and you are thoſe who are come to fulfill Scriptures, and they are fulfilled in you; having received the ſame Spirit that gave them forth; and you are thoſe that the Scrip<g ref="char:EOLhyphen"/>ture ſpeaks of, <hi>that have broke your Swords into Sithes, and your Sphears into pruning books;</hi> and that have learned to war no more with Carnal weapons; and you are the ſeed that the Lord hath raiſed, in this Northern Iſland, as <hi>Jeremiah</hi> foretold, <hi>and the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> cut out without hands that muſt brake the Image to po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>der, and grow and fill the whole Earth.</hi> And you are the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<g ref="char:EOLhyphen"/>ble company of <hi>Warriors</hi> that follows the Lamb, who is your Captain, to ſight with the Dragon, the Beaſt and falſe Prophets, and that ſhall be ſure to have the Victory, <hi>Revel.</hi> 19. and you are thoſe that are coming out of <hi>great tribulation, having waſhed your long white Robes in the blood of the Lamb.</hi> Therefore I ſay to you all truſt in the Lord, and wait upon him, keep to the Fould; for though you are now deſigned to be rooted out, yet remember and believe that there is no pow<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> but what is in our Gods hand, and he never for<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ook any that were deſigned by a Law to be rooted out for their obedience to the Lord, as you are at this day: And though he tryed his people, and did not deliver untill in the Furnace, nor untill <hi>Daniel</hi> was in the <hi>De<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> yet then his power appeared for their deliverance, and alſo for the deſtruction of their Enemies; ſo all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Lambs be faithful unto the Lord, and truſt in hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for your deliverance will aſſuredly come, as thoſe three deliverances came to the Lords people, who were by a Law (made by envious men) to be deſtroyed, and
+<pb n="17" facs="tcp:96760:10" rendition="simple:additions"/>to be rooted out; and no more we read of in Scrip<g ref="char:EOLhyphen"/>ture, that were by a Law thus ſentenced, as we are at this day: and for our deliverance our God hath ap<g ref="char:EOLhyphen"/>peared, and doth appear, though our Enemies ſhut their eyes and will not take notice of it, but ſtill go on to provoke the Lord, who hath done ſo great things for them; and now that which the Lord ſpoke through his Servant the Prophet <hi>Eſdras,</hi> is now a ful<g ref="char:EOLhyphen"/>filling as all may read, <hi>For there ſhall be in every place, and in the next Cities a great Inſurrection, upon thoſe that fear the Lord.</hi>
+               </p>
+               <p n="71">71. <hi>Ver. They ſhall be like made men, ſparing none,</hi>
+                  <note place="margin">1 Eſdras 16.70, 71.</note> 
+                  <hi>but ſtill ſpoyling and deſtroying thoſe that fears the Lord.</hi>
+               </p>
+               <p n="72">72. <hi>For they ſhall waſt and take away their Goods, and cast them out of their Houſes.</hi>
+               </p>
+               <p n="73">73. <hi>Then ſhall they be known who are my Choſen, and they ſhall be tryed as the Gold in the fire.</hi>
+               </p>
+               <p n="74">74. <hi>Hear O ye my beloved, ſaith the Lord, behold the dayes of trouble are at hand, but I will deliver you from the ſame.</hi>
+               </p>
+               <p n="75">75. <hi>Be ye not afraid, neither doubt, for God is your guide.</hi>
+               </p>
+               <p n="76">76. <hi>And the guide of them that keep my Commande<g ref="char:EOLhyphen"/>ments and Precepts.</hi>
+               </p>
+            </div>
+            <closer>
+               <signed>F. E.</signed>
+            </closer>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
